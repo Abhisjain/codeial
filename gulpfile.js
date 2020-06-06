@@ -7,6 +7,7 @@ const uglify = require('gulp-uglify-es').default;
 const imagemin = require('gulp-imagemin');
 const del = require('del');
 
+// lets see it commits are added
 
 
 gulp.task('css', function(done){
